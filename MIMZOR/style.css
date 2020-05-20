@@ -1,0 +1,35 @@
+/* Text */
+h1{
+    color: white;
+}
+#infoaboutchannel{
+	font-family: bips;
+	font-size: 65px;
+    margin-left: 482px;
+}
+
+#subscribe{
+    font-size: 35px;
+    padding-left: 50px;
+}
+/*--------------*/
+/* Events */
+#infoaboutchannel:hover{
+    transition: 1.5s color;
+    color: rgb(30,30,30);
+}
+#subscribe:hover{
+    transition: 1.5s color;
+    color: rgb(30,30,30);
+}
+/*-----------------*/
+body{
+	background-color: black;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+a{
+    color: rgb(255,255,255);
+    font-size: 30px;
+}
