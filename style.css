@@ -1,6 +1,5 @@
 body{
-	background-color: black;
-	height: 90px;
+	background-color: #000000;
 }
 
 .DayWeek{
@@ -36,4 +35,39 @@ body{
 	position: absolute;
 	top: 250px;
 	right: 100px;
+	color: #ccce76;
+	font-family: bips;
+}
+/*Video content*/
+#video{
+	position: relative;
+	top: -1400px;
+}
+
+#lastvideo{
+	color: white;
+	font-size: 90px;
+	text-align: center;
+	position: relative;
+	top: -1450px;
+	font-family: BIPs;
+}
+/*MyYTChannel*/
+#mychannel{
+	color: #ccce76;
+	font-size: 90px;
+	text-align: center;
+	position: relative;
+	top: -1350px;
+	font-family: BIPs;
+}
+
+/*MyDsChannel*/
+#mydschannel{
+	color: #ccce76;
+	font-size: 90px;
+	font-family: bips;
+	position: relative;
+	top: -1250px;
+	text-align: center;
 }
