@@ -1,35 +1,26 @@
-/* Text */
-h1{
-    color: white;
-}
-#infoaboutchannel{
-	font-family: bips;
-	font-size: 65px;
-    margin-left: 482px;
+body{
+    background-color: black;
 }
 
-#subscribe{
-    font-size: 35px;
-    padding-left: 50px;
+.TXTsett{
+    color: white;
+    font-family: "FORTNITE BATTLEFEST";
 }
-/*--------------*/
-/* Events */
-#infoaboutchannel:hover{
-    transition: 1.5s color;
-    color: rgb(30,30,30);
-}
-#subscribe:hover{
-    transition: 1.5s color;
-    color: rgb(30,30,30);
-}
-/*-----------------*/
-body{
-	background-color: black;
-	overflow: scroll;
-	overflow-x: hidden;
+
+#DataEvents{
+    font-size: 90px;
+    text-align: center;
 }
 
 a{
-    color: rgb(255,255,255);
-    font-size: 30px;
+    color: #ccce76;
+    font-size: 50px;
+}
+
+iframe{
+    height: 720px;
+    width: 1280px;
+    border: 10px solid #ccce76;
+    position: relative;
+    bottom: -150px;
 }
