@@ -1,73 +1,39 @@
-a{
-	color: white;
-	font-size: 34px;
-	position: relative;
-	left: -1250px;
-	top: -300px;
-}
-
 body{
-	background-color: rgb(0,0,0);
-	position: absolute;
-	left: -100px;
-	overflow: scroll;
-	overflow-x:hidden;
+	background-color: black;
+	height: 90px;
 }
 
-.text{
-	font-family: Fortnite Battlefest;
-	font-size: 100px;
-	position: relative;
-	right: -405px;
-	color: rgb(255,255,255);
-
-}
-.text:hover{
-	transition: 2s color;
-	color: rgb(125,0,0);
-}
-
-div{
-	display: inline-block;
-	padding: 35px;
-	position: relative;
-	bottom: -150px;
-}
-
-.texttime{
+.DayWeek{
 	color: white;
-	font-family: Fortnite Battlefest;
-	font-size: 50px;
+	font-family: "FORTNITE BATTLEFEST";
+	font-size: 85px;
+}
+
+#Ifisntwrite{
+	color: white;
+	font-family: "FORTNITE BATTLEFEST";
+	font-size: 65px;
+	margin-left: 350px;
+}
+
+.Datatime{
+	color: white;
+	font-family: "FORTNITE BATTLEFEST";
+	font-size: 55px;
 	position: relative;
-	bottom: -135px;
+	bottom: 1500px;
 }
 
-.texttime:hover{
-	transition: 2s color;
-	color: rgb(125,0,0);
-}
-
-h1{
-	color: #FFFFFF;
+.datatimetxt{
+	padding-top: 76px;
+	margin-left: 100px;
 	position: relative;
-	left: 500px;
+	top: -20px;
+}
+
+#txtmimzor{
 	font-size: 50px;
-	border: 15px solid #8C40CF;
-	border-radius: 50px;
-	width: 50%;
-}
-
-h1:hover{
-	border-color: rgb(125,0,0);
-	color: yellow;
-	transition: 1.5s border-color, 1s color;
-}
-
-#cube{
-	width: 155px;
-	height: 10px;
-	background-color: #B7BBBB;
 	position: absolute;
-	left: 150px;
-	top: 20px;
+	top: 250px;
+	right: 100px;
 }
