@@ -33,3 +33,9 @@ iframe{
     top: -800px;
     right: -500px;
 }
+
+#imgStream{
+	position: relative;
+	top: -980px;
+	right: -250px;
+}
