@@ -2,72 +2,7 @@ body{
 	background-color: #000000;
 }
 
-.DayWeek{
-	color: white;
-	font-family: "FORTNITE BATTLEFEST";
-	font-size: 85px;
-}
-
-#Ifisntwrite{
-	color: white;
-	font-family: "FORTNITE BATTLEFEST";
-	font-size: 65px;
-	margin-left: 350px;
-}
-
-.Datatime{
-	color: white;
-	font-family: "FORTNITE BATTLEFEST";
-	font-size: 55px;
-	position: relative;
-	bottom: 1500px;
-}
-
-.datatimetxt{
-	padding-top: 76px;
-	margin-left: 100px;
-	position: relative;
-	top: -20px;
-}
-
-#txtmimzor{
-	font-size: 50px;
-	position: absolute;
-	top: 250px;
-	right: 100px;
-	color: #ccce76;
-	font-family: bips;
-}
-/*Video content*/
 #video{
 	position: relative;
 	top: -1400px;
-}
-
-#lastvideo{
-	color: white;
-	font-size: 90px;
-	text-align: center;
-	position: relative;
-	top: -1450px;
-	font-family: BIPs;
-}
-/*MyYTChannel*/
-#mychannel{
-	color: #ccce76;
-	font-size: 90px;
-	text-align: center;
-	position: relative;
-	top: -1350px;
-	font-family: BIPs;
-}
-
-/*MyDsChannel*/
-#mydschannel{
-	color: #ccce76;
-	font-size: 90px;
-	font-family: bips;
-	position: relative;
-	top: -1250px;
-	text-align: center;
 }

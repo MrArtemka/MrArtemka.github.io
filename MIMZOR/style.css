@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    height: 1150px;
 }
 
 .TXTsett{
@@ -15,6 +16,7 @@ body{
 a{
     color: #ccce76;
     font-size: 50px;
+    font-family: FORTNITE BATTLEFEST;
 }
 
 iframe{
@@ -23,4 +25,11 @@ iframe{
     border: 10px solid #ccce76;
     position: relative;
     bottom: -150px;
+}
+
+#TXTINFO{
+    font-size: 65px;
+    position: relative;
+    top: -800px;
+    right: -500px;
 }
