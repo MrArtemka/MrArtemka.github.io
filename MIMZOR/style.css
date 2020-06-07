@@ -1,6 +1,7 @@
 body{
     background-color: black;
     height: 1150px;
+    overflow-x: hidden;
 }
 
 .TXTsett{
