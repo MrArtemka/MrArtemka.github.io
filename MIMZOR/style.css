@@ -1,42 +1,27 @@
 body{
-    background-color: black;
-    height: 1150px;
-    overflow-x: hidden;
+	background-color: black;
+	overflow: scroll;
+	overflow-x: hidden;
 }
 
-.TXTsett{
-    color: white;
-    font-family: "FORTNITE BATTLEFEST";
+#h1info{
+	color: white;
+	font-size: 90px;
+	font-family: FORTNITE BATTLEFEST;
 }
 
-#DataEvents{
-    font-size: 90px;
-    text-align: center;
+#DiscordRavon{
+	color: #F9CA00;
+	font-family: FORTNITE BATTLEFEST;
+	font-size: 50px;
 }
 
-a{
-    color: #ccce76;
-    font-size: 50px;
-    font-family: FORTNITE BATTLEFEST;
+#buttonstream{
+	position: relative;
+	top: -500px
 }
 
 iframe{
-    height: 720px;
-    width: 1280px;
-    border: 10px solid #ccce76;
-    position: relative;
-    bottom: -150px;
-}
-
-#TXTINFO{
-    font-size: 65px;
-    position: relative;
-    top: -800px;
-    right: -500px;
-}
-
-#imgStream{
-	position: relative;
-	top: -980px;
-	right: -250px;
+	border: 14px solid;
+	border-color: #2F2291;
 }
