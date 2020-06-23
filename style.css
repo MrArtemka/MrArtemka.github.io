@@ -1,80 +1,71 @@
-body{
-    background-color: black;
-    max-height: 1px;
-    height: 100%;
-    overflow-x: hidden;
-
+body {
+  background-color: black;
+  max-height: 1px;
+  height: 100%;
+  overflow-x: hidden;
 }
 
-iframe{
-    position: relative;
-    top: -1003px;
-    right: -89px;
-    display: block;
+iframe {
+  position: relative;
+  top: -1003px;
+  right: -89px;
+  display: block;
 }
 
-#TXTIF{
-    font-family: bips;
-    color: #2c812d;
-    font-size: 90px;
-    position: relative;
-    top: -4000px;
+#TXTIF {
+  font-family: bips;
+  color: #2c812d;
+  font-size: 90px;
+  position: relative;
+  top: -4000px;
 }
 
-#allreferences{
-
-    color: #4040bd;
-    font-size: 90px;
-    font-family: bips;
-    position: relative;
-    top: -4350px;
-    right: -1370px;
-
+#allreferences {
+  color: #4040bd;
+  font-size: 90px;
+  font-family: bips;
+  position: relative;
+  top: -4350px;
+  right: -1370px;
 }
 
-#referencesMIMZOR{
-
-    font-family: FORTNITE BATTLEFEST;
-    font-size: 70px;
-    color: #2c812d;
-    position: relative;
-    top: -4400px;
-    right: -1450px;
-    display: block;
-
+#referencesMIMZOR {
+  font-family: FORTNITE BATTLEFEST;
+  font-size: 70px;
+  color: #2c812d;
+  position: relative;
+  top: -4400px;
+  right: -1450px;
+  display: block;
 }
 
-#referencesmydcs{
-
-    color: #2c812d;
-    font-size: 70px;
-    font-family: FORTNITE BATTLEFEST;
-    position: relative;
-    top: -4450px;
-    right: -1400px;
-    display: block;
-    
-
+#referencesmydcs {
+  color: #2c812d;
+  font-size: 70px;
+  font-family: FORTNITE BATTLEFEST;
+  position: relative;
+  top: -4450px;
+  color: #2c812d;
+  right: -1400px;
+  display: block;
 }
 
-#referenceslastvideo{
-
-    position: relative;
-    top: -4450px;
-    right: -1400px;
-    font-size: 70px;
-    font-family: FORTNITE BATTLEFEST;
-    display: block;
-
+#referenceslastvideo {
+  position: relative;
+  top: -4450px;
+  right: -1400px;
+  font-size: 70px;
+  font-family: FORTNITE BATTLEFEST;
+  display: block;
 }
 
-.dov{
-
-    font-size: 60px;
-    font-family: bips;
-    color: #4040bd;
-    position: relative;
-    top: -4789px;
-    padding: 30px;
-
+.dov {
+  font-size: 60px;
+  font-family: bips;
+  color: #4040bd;
+  position: relative;
+  top: -4789px;
+  padding: 30px;
 }
+
+/*# sourceMappingURL=style.css.map */

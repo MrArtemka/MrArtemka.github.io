@@ -1,0 +1,85 @@
+$greencolor: #2c812d;
+$redcolor: #802a28;
+$red2color: #a44240;
+$bluecolor: #4040bd;
+body{
+    background-color: black;
+    max-height: 1px;
+    height: 100%;
+    overflow-x: hidden;
+
+}
+
+iframe{
+    position: relative;
+    top: -1003px;
+    right: -89px;
+    display: block;
+}
+
+#TXTIF{
+    font-family: bips;
+    color: $greencolor;
+    font-size: 90px;
+    position: relative;
+    top: -4000px;
+}
+
+#allreferences{
+
+    color: $bluecolor;
+    font-size: 90px;
+    font-family: bips;
+    position: relative;
+    top: -4350px;
+    right: -1370px;
+
+}
+
+#referencesMIMZOR{
+
+    font-family: FORTNITE BATTLEFEST;
+    font-size: 70px;
+    color: $greencolor;
+    position: relative;
+    top: -4400px;
+    right: -1450px;
+    display: block;
+
+}
+
+#referencesmydcs{
+
+    color: #2c812d;
+    font-size: 70px;
+    font-family: FORTNITE BATTLEFEST;
+    position: relative;
+    top: -4450px;
+    color: $greencolor;
+    right: -1400px;
+    display: block;
+    
+
+}
+
+#referenceslastvideo{
+
+    position: relative;
+    top: -4450px;
+    right: -1400px;
+    font-size: 70px;
+    font-family: FORTNITE BATTLEFEST;
+    display: block;
+
+}
+
+.dov{
+
+    font-size: 60px;
+    font-family: bips;
+    color: $bluecolor;
+    position: relative;
+    top: -4789px;
+    padding: 30px;
+
+}
