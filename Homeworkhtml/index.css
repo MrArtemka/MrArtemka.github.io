@@ -16,9 +16,18 @@ p{
 
 }
 
-
+img{
+    width: 64px;
+    border-radius: 50px;
+}
 
 a{
+
+    font-size: 45px;
     font-family: 'Roboto', sans-serif;
-    font-size: 33px;
+    text-decoration: none;
+    position: relative;
+    left: -50px;
+    top: -15px;
+
 }

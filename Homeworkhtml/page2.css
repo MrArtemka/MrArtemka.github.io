@@ -11,6 +11,17 @@ p{
 
 
 a{
+
+    font-size: 45px;
     font-family: 'Roboto', sans-serif;
-    font-size: 33px;
+    text-decoration: none;
+    position: relative;
+    top: -15px;
+    left: -50px;
+
+}
+
+img{
+    width: 64px;
+    border-radius: 50px;
 }
